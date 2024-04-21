@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Mohamed Elkhawaga"
   pronouns         : # example: "she/her"  
-  bio              : "MSc student Queen's Univeristy"
+  bio              : "MSc student at Queen's Univeristy"
   location         : "Cairo, Egypt"
   employer         : "Queen's University"
   uri              : # URL
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
